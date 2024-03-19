@@ -13,7 +13,7 @@ conky theme with gpu top monitor.
 # Dependency
 1. `sensors` for getting cpu and gpu temperature, you can install with follow command:
 ```
-sudo apt install sensors
+sudo apt install lm-sensors
 ```
 
 2. `amdgpu_top` for getting amd gpu information, you can install it with deb.
